@@ -28,7 +28,6 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.facebook.com/marut.pandya" target="_blank"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/pandya_marut" target="_blank"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/ddbarochiya/" target="_blank"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/marut-pandya-a16480131/" target="_blank"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/pandyamarut" target="_blank"><i className="icon-github"></i></a></li>
                 <li><a href="https://medium.com/me/stories/public" target="_blank"><i className="icon-blogger2"></i></a></li>
