@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2><a href="#">Internship at MayaData Inc.</a> <span>2019-present</span></h2>
-                        <p>I recently have joined the MayaData Inc.  as a Software Developer-Intern in the UI team. My major part of the work has been into the field of UI development for SaaS Product. Using technologies like k8s, docker for testinf purpose. Also uderstanding the Stateful workloads and how they  work. Working on tools to provide monitoring and visualising the workloads Status.</p>
+                        <p>I recently have joined the MayaData Inc.  as a Software Developer-Intern in the UI team. My major part of the work has been into the field of UI development for SaaS Product. Using technologies like k8s, docker for testing purpose. Also uderstanding the Stateful workloads and how they  work. Working on tools to provide monitoring and visualising the workloads Status.</p>
                       </div>
                     </div>
                   </article>
